@@ -1,17 +1,17 @@
 # 負責項目：票券商城 / 購物車 / 優惠券
 
 ## 前台
-- 票券商城瀏覽
-- 票券詳情瀏覽
-- 購物車功能
-- 票券訂單 / 明細查看
-- 會員優惠券查看
+- 票券商城瀏覽 (`java/com/tkt`,  `java/com/tkt_img2`,  `webapp/frontend/tkt`)
+- 票券詳情瀏覽(`java/com/tkt`, `java/com/tkt_img2`,  `webapp/frontend/tkt`)
+- 購物車功能(`java/com/cart`, `webapp/frontend/cart`)
+- 票券訂單 / 明細查看(`java/com/tkt_order2`, `java/com/tkt_item2`,`webapp/frontend/tkt_order`)
+- 會員優惠券查看(`java/com/mem_coup`, `webapp/frontend/mem/memCoup.jsp`)
 
 ## 後台
-- 票券商城管理
-- 優惠券管理
-- 會員優惠券發放
-- 票券訂單管理
+- 票券商城管理(`java/com/tkt`, `java/com/tkt_img2`, `webapp/backend/tkt`)
+- 優惠券管理(`java/com/coup`,  `webapp/backend/coup`)
+- 會員優惠券發放(`java/com/mem_coup`,  `webapp/backend/mem_coup`)
+- 票券訂單管理(`java/com/tkt_order2`, `java/com/tkt_item2`, `webapp/backend/tkt_order`)
 
 ## 使用技術
 - HTML / CSS
@@ -24,9 +24,13 @@
 
 ---
 
-[專題負責項目 PDF 介紹](https://drive.google.com/file/d/1EbpLdg3gATd8yoa5kTOA2BscRhyE-rRb/view?usp=sharing)
+👉 [專題負責項目 PDF 介紹](https://drive.google.com/file/d/1EbpLdg3gATd8yoa5kTOA2BscRhyE-rRb/view?usp=sharing)
 
-![](https://i.imgur.com/YgW8PAc.jpg)
+👉 [專題負責項目影片介紹](https://drive.google.com/file/d/1w5j-y5IRRHUsMDHm5Ofhq9QzXOvQ84RV/view?usp=sharing)
+
+
+![](https://i.imgur.com/eryyz6l.jpg)
+
 
 
 
